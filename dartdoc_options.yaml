@@ -1,0 +1,22 @@
+dartdoc:
+  categories:
+    "Adding numbers":
+      markdown: doc/add.md
+    "Binning data":
+      markdown: doc/bin.md
+    "Bisecting data":
+      markdown: doc/bisect.md
+    "Blurring data":
+      markdown: doc/blur.md
+    "Grouping data":
+      markdown: doc/group.md
+    "Set operations":
+      markdown: doc/sets.md
+    "Sorting data":
+      markdown: doc/sort.md
+    "Summarizing data":
+      markdown: doc/summarize.md
+    "Ticks":
+      markdown: doc/ticks.md
+    "Transforming data":
+      markdown: doc/transform.md

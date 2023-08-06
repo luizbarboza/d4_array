@@ -1,0 +1,1 @@
+Bin discrete samples into continuous, non-overlapping intervals.

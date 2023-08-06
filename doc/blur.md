@@ -1,0 +1,1 @@
+Blur quantitative values in one or two dimensions.

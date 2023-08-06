@@ -1,0 +1,12 @@
+name: d4_array
+version: 1.0.0
+description: List manipulation, ordering, searching, summarizing, etc.
+repository: https://github.com/luizbarboza/d4_array
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  d4_dsv: ^1.0.0
+  lints: ^2.1.1
+  test: ^1.22.0

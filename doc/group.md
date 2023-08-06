@@ -1,0 +1,1 @@
+Group discrete values.

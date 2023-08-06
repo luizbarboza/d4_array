@@ -1,0 +1,1 @@
+Generate representative values from a continuous interval.
